@@ -1,0 +1,13 @@
+/* .board-row2{
+  margin-bottom: 30px;
+} */
+
+
+.container{
+  display: flex;
+  margin-left: 500px;
+}
+.winner{
+  margin-left: 500px;
+  margin-bottom: 10px;
+}
