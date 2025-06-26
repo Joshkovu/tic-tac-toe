@@ -10,3 +10,32 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎯 Purpose of the Project
+
+I created this game to:
+- Strengthen my understanding of React fundamentals  
+- Practice useState, component hierarchy, and data flow  
+- Gain hands-on experience in building reusable components  
+- Handle game logic, conditional rendering, and UX design
+
+🚀 Features
+
+- Two-player game (X and O) with turn-based logic  
+- Winner detection and game reset functionality  
+- Dynamic UI updates using React hooks  
+- Clean, responsive design
+
+🛠 Tech Stack
+
+- React – UI library (Hooks, JSX, component structure)  
+- CSS – Styling and layout  
+- JavaScript (ES6) – Logic handling
+
+🧠 What I Learned
+
+- Managing local state with useState  
+- Passing props between components  
+- Implementing conditional rendering  
+- Thinking in a component-based architecture
+
+
